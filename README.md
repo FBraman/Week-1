@@ -1,6 +1,6 @@
 # Week 1: Github and Review
 
-## Using Github
+## Using Github ##
 
 1. Create a github account
 2. Create a new repository
